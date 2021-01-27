@@ -1,0 +1,1033 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2021 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "offset": 20,
+      
+      
+      "num_results": 20,
+      "votes": [
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 251,
+           "source": "http://clerk.house.gov/evs/2020/roll251.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll251.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/251.json",
+           "bill": {
+           "bill_id": "hr133-116",
+           "number": "H.R.133",
+           "sponsor_id": "C001063",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr133.json",
+           "title": "To promote economic partnership and cooperation between the United States and Mexico.",
+           "latest_action": "Signed by President."
+           },
+           "amendment": {
+           },
+           "question": "On Concurring in Senate Amdt with Amdt (Except Divisions B, C, E, and F)",
+           "question_text": "",
+           "description": "United States-Mexico Economic Partnership Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-12-21",
+           "time": "21:08:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 230,
+             "no": 2,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 128,
+             "no": 50,
+             "present": 0,
+             "not_voting": 17,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 359,
+             "no": 53,
+             "present": 0,
+             "not_voting": 18}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 250,
+           "source": "http://clerk.house.gov/evs/2020/roll250.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll250.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/250.json",
+           "bill": {
+           "bill_id": "hr133-116",
+           "number": "H.R.133",
+           "sponsor_id": "C001063",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr133.json",
+           "title": "To promote economic partnership and cooperation between the United States and Mexico.",
+           "latest_action": "Signed by President."
+           },
+           "amendment": {
+           },
+           "question": "On Concurring in Senate Amdt with Portion of Amdt Comprising of Divisions B, C, E, and F",
+           "question_text": "",
+           "description": "United States-Mexico Economic Partnership Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-12-21",
+           "time": "20:25:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 192,
+             "no": 41,
+             "present": 0,
+             "not_voting": 0,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 134,
+             "no": 43,
+             "present": 0,
+             "not_voting": 18,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 327,
+             "no": 85,
+             "present": 0,
+             "not_voting": 18}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 249,
+           "source": "http://clerk.house.gov/evs/2020/roll249.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll249.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/249.json",
+           "bill": {
+           "bill_id": "hres1271-116",
+           "number": "H.RES.1271",
+           "sponsor_id": "S001206",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1271.json",
+           "title": "Providing for consideration of the Senate amendment to the bill (H.R. 133) to promote economic partnership and cooperation between the United States and Mexico; providing for disposition of the Senate amendment to the bill (H.R. 1520) to amend the Public Health Service Act to provide for the publication of a list of licensed biological products, and for other purposes; and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Resolution",
+           "question_text": "",
+           "description": "Providing for consideration of the Senate amendment to the bill (H.R. 133) to promote economic partnership and cooperation between the US and Mexico; providing for disposition of the Senate amendment to the bill (H.R. 1520)",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-12-21",
+           "time": "18:07:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 226,
+             "no": 5,
+             "present": 0,
+             "not_voting": 2,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 174,
+             "present": 0,
+             "not_voting": 21,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 227,
+             "no": 180,
+             "present": 0,
+             "not_voting": 23}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 248,
+           "source": "http://clerk.house.gov/evs/2020/roll248.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll248.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/248.json",
+           "bill": {
+           "bill_id": "hjres110-116",
+           "number": "H.J.RES.110",
+           "sponsor_id": "L000480",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hjres110.json",
+           "title": "Making further continuing appropriations for fiscal year 2021, and for other purposes.",
+           "latest_action": "Became Public Law No: 116-226."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "question_text": "",
+           "description": "Extension of Continuing Appropriations Act, 2021",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-20",
+           "time": "19:33:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 230,
+             "no": 0,
+             "present": 0,
+             "not_voting": 3,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 99,
+             "no": 64,
+             "present": 0,
+             "not_voting": 32,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 1
+            },
+           "total": {
+             "yes": 329,
+             "no": 65,
+             "present": 0,
+             "not_voting": 36}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 247,
+           "source": "http://clerk.house.gov/evs/2020/roll247.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll247.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/247.json",
+           "bill": {
+           "bill_id": "hjres107-116",
+           "number": "H.J.RES.107",
+           "sponsor_id": "L000480",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hjres107.json",
+           "title": "Making further continuing appropriations for fiscal year 2021, and for other purposes.",
+           "latest_action": "Became Public Law No: 116-225."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "question_text": "",
+           "description": "Making further continuing appropriations for fiscal year 202, and for other purposes",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-18",
+           "time": "18:10:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 226,
+             "no": 0,
+             "present": 0,
+             "not_voting": 7,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 94,
+             "no": 59,
+             "present": 0,
+             "not_voting": 42,
+             "majority_position": "None"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 1
+            },
+           "total": {
+             "yes": 320,
+             "no": 60,
+             "present": 0,
+             "not_voting": 50}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 246,
+           "source": "http://clerk.house.gov/evs/2020/roll246.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll246.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/246.json",
+           "bill": {
+           "bill_id": "s979-116",
+           "number": "S.979",
+           "sponsor_id": "R000595",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/s979.json",
+           "title": "A bill to amend the Post-Katrina Emergency Management Reform Act of 2006 to incorporate the recommendations made by the Government Accountability Office relating to advance contracts, and for other purposes.",
+           "latest_action": "Presented to President."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "question_text": "",
+           "description": "FACE Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-18",
+           "time": "14:06:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 230,
+             "no": 0,
+             "present": 0,
+             "not_voting": 3,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 155,
+             "no": 1,
+             "present": 0,
+             "not_voting": 39,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 1
+            },
+           "total": {
+             "yes": 386,
+             "no": 1,
+             "present": 0,
+             "not_voting": 43}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 245,
+           "source": "http://clerk.house.gov/evs/2020/roll245.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll245.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/245.json",
+           "bill": {
+           "bill_id": "hr3250-116",
+           "number": "H.R.3250",
+           "sponsor_id": "D000096",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr3250.json",
+           "title": "To require the Secretary of the Interior to conduct a special resource study of the sites associated with the life and legacy of the noted American philanthropist and business executive Julius Rosenwald, with a special focus on the Rosenwald Schools, and for other purposes.",
+           "latest_action": "Message on Senate action sent to the House."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass, as Amended",
+           "question_text": "",
+           "description": "Julius Rosenwald and the Rosenwald Schools Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-17",
+           "time": "17:01:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 229,
+             "no": 0,
+             "present": 0,
+             "not_voting": 4,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 158,
+             "no": 4,
+             "present": 0,
+             "not_voting": 33,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 1
+            },
+           "total": {
+             "yes": 387,
+             "no": 5,
+             "present": 0,
+             "not_voting": 38}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 244,
+           "source": "http://clerk.house.gov/evs/2020/roll244.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll244.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/244.json",
+           "bill": {
+           "bill_id": "s2216-116",
+           "number": "S.2216",
+           "sponsor_id": "P000595",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/s2216.json",
+           "title": "A bill to require the Secretary of Veterans Affairs to formally recognize caregivers of veterans, notify veterans and caregivers of clinical determinations relating to eligibility for caregiver programs, and temporarily extend benefits for veterans who are determined ineligible for the family caregiver program, and for other purposes.",
+           "latest_action": "Presented to President."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "question_text": "",
+           "description": "TEAM Veteran Caregivers Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-16",
+           "time": "17:33:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 228,
+             "no": 0,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 151,
+             "no": 0,
+             "present": 0,
+             "not_voting": 44,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 1
+            },
+           "total": {
+             "yes": 380,
+             "no": 0,
+             "present": 0,
+             "not_voting": 50}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 243,
+           "source": "http://clerk.house.gov/evs/2020/roll243.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll243.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/243.json",
+           "bill": {
+           "bill_id": "hr5040-116",
+           "number": "H.R.5040",
+           "sponsor_id": "C001114",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr5040.json",
+           "title": "To direct the Director of the Bureau of Land Management to study the effects of drone incursions on wildfire suppression, and for other purposes.",
+           "latest_action": "Received in the Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass, as Amended",
+           "question_text": "",
+           "description": "AIR Safety Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-10",
+           "time": "12:04:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 225,
+             "no": 0,
+             "present": 0,
+             "not_voting": 8,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 157,
+             "no": 5,
+             "present": 0,
+             "not_voting": 34,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 382,
+             "no": 6,
+             "present": 0,
+             "not_voting": 42}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 242,
+           "source": "http://clerk.house.gov/evs/2020/roll242.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll242.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/242.json",
+           "bill": {
+           "bill_id": "s906-116",
+           "number": "S.906",
+           "sponsor_id": "F000062",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/s906.json",
+           "title": "A bill to improve the management of driftnet fishing.",
+           "latest_action": "Presented to President."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "question_text": "",
+           "description": "Driftnet Modernization and Bycatch Reduction Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-10",
+           "time": "11:24:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 226,
+             "no": 0,
+             "present": 0,
+             "not_voting": 7,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 56,
+             "no": 105,
+             "present": 0,
+             "not_voting": 35,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 283,
+             "no": 105,
+             "present": 0,
+             "not_voting": 42}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 241,
+           "source": "http://clerk.house.gov/evs/2020/roll241.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll241.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/241.json",
+           "bill": {
+           "bill_id": "hr5758-116",
+           "number": "H.R.5758",
+           "sponsor_id": "G000558",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr5758.json",
+           "title": "To amend the Energy Policy and Conservation Act to make technical corrections to the energy conservation standard for ceiling fans, and for other purposes.",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "question_text": "",
+           "description": "Ceiling Fan Improvement Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-09",
+           "time": "17:16:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 229,
+             "no": 0,
+             "present": 0,
+             "not_voting": 4,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 166,
+             "no": 2,
+             "present": 0,
+             "not_voting": 28,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 396,
+             "no": 2,
+             "present": 0,
+             "not_voting": 32}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 240,
+           "source": "http://clerk.house.gov/evs/2020/roll240.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll240.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/240.json",
+           "bill": {
+           "bill_id": "hr8900-116",
+           "number": "H.R.8900",
+           "sponsor_id": "L000480",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr8900.json",
+           "title": "Making further continuing appropriations for fiscal year 2021, and for other purposes.",
+           "latest_action": "Became Public Law No: 116-215."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "question_text": "",
+           "description": "Further Continuing Appropriations Act, 2021, and Other Extensions Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-12-09",
+           "time": "16:41:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 232,
+             "no": 0,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 111,
+             "no": 66,
+             "present": 0,
+             "not_voting": 19,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 343,
+             "no": 67,
+             "present": 0,
+             "not_voting": 20}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 239,
+           "source": "http://clerk.house.gov/evs/2020/roll239.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll239.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/239.json",
+           "bill": {
+           "bill_id": "hr8354-116",
+           "number": "H.R.8354",
+           "sponsor_id": "E000299",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr8354.json",
+           "title": "To establish the Servicemembers and Veterans Initiative within the Civil Rights Division of the Department of Justice, and for other purposes.",
+           "latest_action": "Presented to President."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass, as Amended",
+           "question_text": "",
+           "description": "Servicemembers and Veterans Initiative Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-08",
+           "time": "19:03:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 229,
+             "no": 0,
+             "present": 0,
+             "not_voting": 4,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 171,
+             "no": 0,
+             "present": 0,
+             "not_voting": 25,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 400,
+             "no": 1,
+             "present": 0,
+             "not_voting": 29}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 238,
+           "source": "http://clerk.house.gov/evs/2020/roll238.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll238.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/238.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Conference Report",
+           "question_text": "",
+           "description": "William M. (Mac) Thornberry National Defense Authorization Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-12-08",
+           "time": "18:25:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 195,
+             "no": 37,
+             "present": 1,
+             "not_voting": 0,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 140,
+             "no": 40,
+             "present": 0,
+             "not_voting": 16,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 335,
+             "no": 78,
+             "present": 1,
+             "not_voting": 16}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 237,
+           "source": "http://clerk.house.gov/evs/2020/roll237.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll237.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/237.json",
+           "bill": {
+           "bill_id": "s461-116",
+           "number": "S.461",
+           "sponsor_id": "S001184",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/s461.json",
+           "title": "A bill to strengthen the capacity and competitiveness of historically Black colleges and universities through robust public-sector, private-sector, and community partnerships and engagement, and for other purposes.",
+           "latest_action": "Presented to President."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass, as Amended",
+           "question_text": "",
+           "description": "HBCU PARTNERS Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-07",
+           "time": "15:42:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 228,
+             "no": 0,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 160,
+             "no": 5,
+             "present": 0,
+             "not_voting": 31,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 388,
+             "no": 6,
+             "present": 0,
+             "not_voting": 36}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 236,
+           "source": "http://clerk.house.gov/evs/2020/roll236.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll236.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/236.json",
+           "bill": {
+           "bill_id": "hres512-116",
+           "number": "H.RES.512",
+           "sponsor_id": "R000606",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres512.json",
+           "title": "Calling for the global repeal of blasphemy, heresy, and apostasy laws.",
+           "latest_action": "On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 3, 1 Present (Roll no. 236). (text: CR H6865)"
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Agree, as Amended",
+           "question_text": "",
+           "description": "Calling for the global repeal of blasphemy, heresy, and apostasy laws",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-07",
+           "time": "15:00:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 226,
+             "no": 0,
+             "present": 0,
+             "not_voting": 7,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 160,
+             "no": 3,
+             "present": 0,
+             "not_voting": 33,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 1,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 386,
+             "no": 3,
+             "present": 1,
+             "not_voting": 40}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 235,
+           "source": "http://clerk.house.gov/evs/2020/roll235.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll235.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/235.json",
+           "bill": {
+           "bill_id": "hr3884-116",
+           "number": "H.R.3884",
+           "sponsor_id": "N000002",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr3884.json",
+           "title": "To decriminalize and deschedule cannabis, to provide for reinvestment in certain persons adversely impacted by the War on Drugs, to provide for expungement of certain cannabis offenses, and for other purposes.",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Finance."
+           },
+           "amendment": {
+           },
+           "question": "On Passage",
+           "question_text": "",
+           "description": "MORE Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-12-04",
+           "time": "13:08:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 222,
+             "no": 6,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 5,
+             "no": 158,
+             "present": 0,
+             "not_voting": 34,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 228,
+             "no": 164,
+             "present": 0,
+             "not_voting": 39}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 234,
+           "source": "http://clerk.house.gov/evs/2020/roll234.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll234.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/234.json",
+           "bill": {
+           "bill_id": "hr3884-116",
+           "number": "H.R.3884",
+           "sponsor_id": "N000002",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr3884.json",
+           "title": "To decriminalize and deschedule cannabis, to provide for reinvestment in certain persons adversely impacted by the War on Drugs, to provide for expungement of certain cannabis offenses, and for other purposes.",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Finance."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Recommit with Instructions",
+           "question_text": "",
+           "description": "MORE Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-12-04",
+           "time": "12:16:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": 11,
+             "no": 217,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": 163,
+             "no": 1,
+             "present": 0,
+             "not_voting": 33,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 1,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 174,
+             "no": 218,
+             "present": 1,
+             "not_voting": 38}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 233,
+           "source": "http://clerk.house.gov/evs/2020/roll233.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll233.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/233.json",
+           "bill": {
+           "bill_id": "s2981-116",
+           "number": "S.2981",
+           "sponsor_id": "S001198",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/s2981.json",
+           "title": "A bill to reauthorize and amend the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002, and for other purposes.",
+           "latest_action": "Signed by President."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "question_text": "",
+           "description": "National Oceanic and Atmospheric Administration Commissioned Officer Corps Amendments Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-04",
+           "time": "11:29:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 227,
+             "no": 0,
+             "present": 0,
+             "not_voting": 6,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 38,
+             "no": 123,
+             "present": 0,
+             "not_voting": 36,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 265,
+             "no": 124,
+             "present": 0,
+             "not_voting": 42}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 232,
+           "source": "http://clerk.house.gov/evs/2020/roll232.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll232.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/232.json",
+           "bill": {
+           "bill_id": "hr1380-116",
+           "number": "H.R.1380",
+           "sponsor_id": "Q000023",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr1380.json",
+           "title": "To amend the Lacey Act Amendments of 1981 to clarify provisions enacted by the Captive Wildlife Safety Act, to further the conservation of certain wildlife species, and for other purposes.",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Environment and Public Works."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass, as Amended",
+           "question_text": "",
+           "description": "Big Cat Public Safety Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-03",
+           "time": "21:57:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 224,
+             "no": 0,
+             "present": 0,
+             "not_voting": 9,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 48,
+             "no": 113,
+             "present": 0,
+             "not_voting": 36,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 272,
+             "no": 114,
+             "present": 0,
+             "not_voting": 45}
+          }
+         ]
+    }
+}

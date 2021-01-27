@@ -1,0 +1,1009 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2021 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "offset": 0,
+      
+      
+      "num_results": 20,
+      "votes": [
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 18,
+           "source": "http://clerk.house.gov/evs/2021/roll018.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll018.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/18.json",
+           "bill": {
+           "bill_id": "hr335-117",
+           "number": "H.R.335",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hr335.json",
+           "title": "To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.",
+           "latest_action": "Became Public Law No: 117-1."
+           },
+           "amendment": {
+           },
+           "question": "On Passage",
+           "question_text": "",
+           "description": "To provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-21",
+           "time": "16:07:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 205,
+             "no": 15,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 121,
+             "no": 63,
+             "present": 0,
+             "not_voting": 27,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 326,
+             "no": 78,
+             "present": 0,
+             "not_voting": 28}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 17,
+           "source": "http://clerk.house.gov/evs/2021/roll017.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll017.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/17.json",
+           "bill": {
+           "bill_id": "hres24-117",
+           "number": "H.RES.24",
+           "sponsor_id": "C001084",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres24.json",
+           "title": "Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors.",
+           "latest_action": "Received in the Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Resolution",
+           "question_text": "",
+           "description": "Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-13",
+           "time": "16:33:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 222,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 10,
+             "no": 197,
+             "present": 0,
+             "not_voting": 4,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 232,
+             "no": 197,
+             "present": 0,
+             "not_voting": 4}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 16,
+           "source": "http://clerk.house.gov/evs/2021/roll016.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll016.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/16.json",
+           "bill": {
+           "bill_id": "hres41-117",
+           "number": "H.RES.41",
+           "sponsor_id": "M000312",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres41.json",
+           "title": "Providing for consideration of the resolution (H. Res. 24) impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Resolution",
+           "question_text": "",
+           "description": "Providing for consideration of the resolution (H. Res. 24) impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-13",
+           "time": "12:21:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 221,
+             "no": 0,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 203,
+             "present": 0,
+             "not_voting": 8,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 221,
+             "no": 203,
+             "present": 0,
+             "not_voting": 9}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 15,
+           "source": "http://clerk.house.gov/evs/2021/roll015.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll015.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/15.json",
+           "bill": {
+           "bill_id": "hres41-117",
+           "number": "H.RES.41",
+           "sponsor_id": "M000312",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres41.json",
+           "title": "Providing for consideration of the resolution (H. Res. 24) impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Ordering the Previous Question",
+           "question_text": "",
+           "description": "Providing for consideration of the resolution (H. Res. 24) impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-13",
+           "time": "11:29:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 221,
+             "no": 0,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 205,
+             "present": 0,
+             "not_voting": 6,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 221,
+             "no": 205,
+             "present": 0,
+             "not_voting": 7}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 14,
+           "source": "http://clerk.house.gov/evs/2021/roll014.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll014.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/14.json",
+           "bill": {
+           "bill_id": "hres21-117",
+           "number": "H.RES.21",
+           "sponsor_id": "R000606",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres21.json",
+           "title": "Calling on Vice President Michael R. Pence to convene and mobilize the principal officers of the executive departments of the Cabinet to activate section 4 of the 25th Amendment to declare President Donald J. Trump incapable of executing the duties of his office and to immediately exercise powers as acting President.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Resolution",
+           "question_text": "",
+           "description": "Calling on Vice President Michael R. Pence to convene and mobilize the principal officers of the executive departments of the Cabinet to activate section 4 of the 25th Amendment to declare President Donald J. Trump incapable of executing the duties of his office and to immediately exercise powers as acting President",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-12",
+           "time": "23:24:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 222,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 1,
+             "no": 205,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 223,
+             "no": 205,
+             "present": 0,
+             "not_voting": 5}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 13,
+           "source": "http://clerk.house.gov/evs/2021/roll013.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll013.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/13.json",
+           "bill": {
+           "bill_id": "hres38-117",
+           "number": "H.RES.38",
+           "sponsor_id": "S001205",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres38.json",
+           "title": "Providing for consideration of the resolution (H. Res. 21) calling on Vice President Michael R. Pence to convene and mobilize the principal officers of the executive departments of the Cabinet to activate section 4 of the 25th Amendment to declare President Donald J. Trump incapable of executing the duties of his office and to immediately exercise powers as acting President; and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Resolution",
+           "question_text": "",
+           "description": "Providing for consideration of H. Res. 21",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-12",
+           "time": "21:12:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 222,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 204,
+             "present": 0,
+             "not_voting": 7,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 222,
+             "no": 204,
+             "present": 0,
+             "not_voting": 7}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 12,
+           "source": "http://clerk.house.gov/evs/2021/roll012.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll012.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/12.json",
+           "bill": {
+           "bill_id": "hres38-117",
+           "number": "H.RES.38",
+           "sponsor_id": "S001205",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres38.json",
+           "title": "Providing for consideration of the resolution (H. Res. 21) calling on Vice President Michael R. Pence to convene and mobilize the principal officers of the executive departments of the Cabinet to activate section 4 of the 25th Amendment to declare President Donald J. Trump incapable of executing the duties of his office and to immediately exercise powers as acting President; and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Ordering the Previous Question",
+           "question_text": "",
+           "description": "Providing for consideration of H. Res. 21",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-12",
+           "time": "20:26:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 219,
+             "no": 0,
+             "present": 0,
+             "not_voting": 3,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 206,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 219,
+             "no": 206,
+             "present": 0,
+             "not_voting": 8}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 11,
+           "source": "http://clerk.house.gov/evs/2021/roll011.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll011.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/11.json",
+           "bill": {
+           "bill_id": "motion-117",
+           "number": "MOTION",
+           "sponsor_id": null,
+           "api_uri": null,
+           "title": null,
+           "latest_action": null
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Objection",
+           "question_text": "",
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-06",
+           "time": "22:08:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": 0,
+             "no": 218,
+             "present": 0,
+             "not_voting": 4,
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": 138,
+             "no": 64,
+             "present": 0,
+             "not_voting": 7,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 138,
+             "no": 282,
+             "present": 0,
+             "not_voting": 11}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 10,
+           "source": "http://clerk.house.gov/evs/2021/roll010.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll010.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/10.json",
+           "bill": {
+           "bill_id": "motion-117",
+           "number": "MOTION",
+           "sponsor_id": null,
+           "api_uri": null,
+           "title": null,
+           "latest_action": null
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Objection",
+           "question_text": "",
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-06",
+           "time": "18:08:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": 0,
+             "no": 220,
+             "present": 0,
+             "not_voting": 2,
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": 121,
+             "no": 83,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 121,
+             "no": 303,
+             "present": 0,
+             "not_voting": 7}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 9,
+           "source": "http://clerk.house.gov/evs/2021/roll009.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll009.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/9.json",
+           "bill": {
+           "bill_id": "hr22-117",
+           "number": "H.R.22",
+           "sponsor_id": "Q000023",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hr22.json",
+           "title": "To amend the Federal Funding Accountability and Transparency Act of 2006, to require the budget justifications and appropriation requests of agencies be made publicly available.",
+           "latest_action": "Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "question_text": "",
+           "description": "Congressional Budget Justification Transparency Act of 2021",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2021-01-05",
+           "time": "13:43:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 208,
+             "no": 0,
+             "present": 0,
+             "not_voting": 14,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 204,
+             "no": 2,
+             "present": 0,
+             "not_voting": 3,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 412,
+             "no": 2,
+             "present": 0,
+             "not_voting": 17}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 8,
+           "source": "http://clerk.house.gov/evs/2021/roll008.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll008.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/8.json",
+           "bill": {
+           "bill_id": "hres8-117",
+           "number": "H.RES.8",
+           "sponsor_id": "H000874",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres8.json",
+           "title": "Adopting the Rules of the House of Representatives of the One Hundred Seventeenth Congress, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Resolution",
+           "question_text": "",
+           "description": "Adopting the Rules of the House of Representatives for the One Hundred Seventeenth Congress, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-04",
+           "time": "11:49:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 217,
+             "no": 0,
+             "present": 0,
+             "not_voting": 4,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 206,
+             "present": 0,
+             "not_voting": 3,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 217,
+             "no": 206,
+             "present": 0,
+             "not_voting": 7}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 7,
+           "source": "http://clerk.house.gov/evs/2021/roll007.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll007.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/7.json",
+           "bill": {
+           "bill_id": "hres8-117",
+           "number": "H.RES.8",
+           "sponsor_id": "H000874",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres8.json",
+           "title": "Adopting the Rules of the House of Representatives of the One Hundred Seventeenth Congress, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Commit with Instructions",
+           "question_text": "",
+           "description": "Adopting the Rules of the House of Representatives for the One Hundred Seventeenth Congress, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-04",
+           "time": "10:51:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": 0,
+             "no": 217,
+             "present": 0,
+             "not_voting": 4,
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": 203,
+             "no": 0,
+             "present": 0,
+             "not_voting": 6,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 203,
+             "no": 217,
+             "present": 0,
+             "not_voting": 10}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 6,
+           "source": "http://clerk.house.gov/evs/2021/roll006.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll006.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/6.json",
+           "bill": {
+           "bill_id": "hres8-117",
+           "number": "H.RES.8",
+           "sponsor_id": "H000874",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres8.json",
+           "title": "Adopting the Rules of the House of Representatives of the One Hundred Seventeenth Congress, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Ordering the Previous Question",
+           "question_text": "",
+           "description": "Adopting the Rules of the House of Representatives for the One Hundred Seventeenth Congress, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-04",
+           "time": "10:02:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 217,
+             "no": 0,
+             "present": 0,
+             "not_voting": 4,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 204,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 217,
+             "no": 204,
+             "present": 0,
+             "not_voting": 9}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 5,
+           "source": "http://clerk.house.gov/evs/2021/roll005.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll005.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/5.json",
+           "bill": {
+           "bill_id": "hres8-117",
+           "number": "H.RES.8",
+           "sponsor_id": "H000874",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres8.json",
+           "title": "Adopting the Rules of the House of Representatives of the One Hundred Seventeenth Congress, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "Table Motion to Refer",
+           "question_text": "",
+           "description": "Adopting the Rules of the House of Representatives for the One Hundred Seventeenth Congress, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-04",
+           "time": "07:18:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 214,
+             "no": 0,
+             "present": 0,
+             "not_voting": 7,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 196,
+             "present": 0,
+             "not_voting": 13,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 214,
+             "no": 196,
+             "present": 0,
+             "not_voting": 20}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 4,
+           "source": "http://clerk.house.gov/evs/2021/roll004.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll004.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/4.json",
+           "bill": {
+           "bill_id": "hres8-117",
+           "number": "H.RES.8",
+           "sponsor_id": "H000874",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres8.json",
+           "title": "Adopting the Rules of the House of Representatives of the One Hundred Seventeenth Congress, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Table the Motion to Postpone to a Day Certain",
+           "question_text": "",
+           "description": "Adopting the Rules of the House of Representatives for the One Hundred Seventeenth Congress, and for other purposes",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-04",
+           "time": "06:25:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 214,
+             "no": 0,
+             "present": 0,
+             "not_voting": 7,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 204,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 214,
+             "no": 204,
+             "present": 0,
+             "not_voting": 12}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 3,
+           "source": "http://clerk.house.gov/evs/2021/roll003.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll003.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/3.json",
+           "bill": {
+           "bill_id": "hres1-117",
+           "number": "H.RES.1",
+           "sponsor_id": "H000874",
+           "api_uri": "https://api.propublica.org/congress/v1/117/bills/hres1.json",
+           "title": "Authorizing and directing the Speaker to administer the oath of office.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Resolution",
+           "question_text": "",
+           "description": "Authorizing and directing the Speaker to administer the oath of office",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-03",
+           "time": "18:34:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 183,
+             "no": 0,
+             "present": 0,
+             "not_voting": 38,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 188,
+             "no": 2,
+             "present": 0,
+             "not_voting": 21,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 371,
+             "no": 2,
+             "present": 0,
+             "not_voting": 59}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 2,
+           "source": "http://clerk.house.gov/evs/2021/roll002.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll002.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/2.json",
+           "bill": {},
+           "amendment": {
+           },
+           "question": "Election of the Speaker",
+           "question_text": "",
+           "description": "",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2021-01-03",
+           "time": "17:50:00",
+           "result": "Pelosi",
+           "democratic": 
+           {"Pelosi":216,"Duckworth":1,"Not Voting":1,"Jeffries":1,"Present":3},
+           "republican": 
+           {"McCarthy":209,"Not Voting":2},
+           "independent": 
+           {},
+           "total": 
+           {"Pelosi":216,"McCarthy":209,"Duckworth":1,"Not Voting":3,"Jeffries":1,"Present":3}
+          },
+        {
+           "congress": 117,
+           "chamber": "House",
+           "session": 1,
+           "roll_call": 1,
+           "source": "http://clerk.house.gov/evs/2021/roll001.xml",
+           "url": "http://clerk.house.gov/evs/2021/roll001.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/117/house/sessions/1/votes/1.json",
+           "bill": {
+           "bill_id": "quorum-117",
+           "number": "QUORUM",
+           "sponsor_id": null,
+           "api_uri": null,
+           "title": null,
+           "latest_action": null
+           },
+           "amendment": {
+           },
+           "question": "Call By States",
+           "question_text": "",
+           "description": "",
+           "vote_type": "QUORUM",
+           "date": "2021-01-03",
+           "time": "13:24:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 0,
+             "no": 0,
+             "present": 220,
+             "not_voting": 2,
+             "majority_position": "Present"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 0,
+             "present": 207,
+             "not_voting": 5,
+             "majority_position": "Present"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 0,
+             "no": 0,
+             "present": 427,
+             "not_voting": 7}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 253,
+           "source": "http://clerk.house.gov/evs/2020/roll253.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll253.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/253.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Passage, Objections of the President to the Contrary Notwithstanding",
+           "question_text": "",
+           "description": "William M. (Mac) Thornberry National Defense Authorization Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-28",
+           "time": "19:05:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 212,
+             "no": 20,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 109,
+             "no": 66,
+             "present": 0,
+             "not_voting": 20,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 322,
+             "no": 87,
+             "present": 0,
+             "not_voting": 21}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 252,
+           "source": "http://clerk.house.gov/evs/2020/roll252.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll252.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/252.json",
+           "bill": {
+           "bill_id": "hr9051-116",
+           "number": "H.R.9051",
+           "sponsor_id": null,
+           "api_uri": null,
+           "title": null,
+           "latest_action": null
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Suspend the Rules and Pass",
+           "question_text": "",
+           "description": "CASH Act",
+           "vote_type": "2/3 YEA-AND-NAY",
+           "date": "2020-12-28",
+           "time": "17:55:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 231,
+             "no": 2,
+             "present": 0,
+             "not_voting": 0,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 44,
+             "no": 130,
+             "present": 0,
+             "not_voting": 21,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 2,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 275,
+             "no": 134,
+             "present": 0,
+             "not_voting": 21}
+          }
+         ]
+    }
+}

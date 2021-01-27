@@ -1,0 +1,1082 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2021 Pro Publica Inc. All Rights Reserved.",
+   "results": {
+      "chamber": "House",
+      "offset": 120,
+      
+      
+      "num_results": 20,
+      "votes": [
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 151,
+           "source": "http://clerk.house.gov/evs/2020/roll151.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll151.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/151.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Recommit with Instructions",
+           "question_text": "",
+           "description": "William M. (Mac) Thornberry National Defense Authorization Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-21",
+           "time": "13:04:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": 14,
+             "no": 217,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": 187,
+             "no": 1,
+             "present": 0,
+             "not_voting": 10,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 201,
+             "no": 219,
+             "present": 0,
+             "not_voting": 11}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 150,
+           "source": "http://clerk.house.gov/evs/2020/roll150.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll150.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/150.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           "number": "H.AMDT.845",
+           "api_uri": "https://api.propublica.org/congress/v1/116/amendments/hamdt845.json",
+           "sponsor_id": "T000472",
+           "sponsor": "Mark Takano",
+           "sponsor_uri": "https://api.propublica.org/congress/v1/members/T000472.json",
+           "sponsor_party": "D",
+           "sponsor_state": "CA"
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Takano of California Amendment No. 29",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-21",
+           "time": "11:58:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": 226,
+             "no": 4,
+             "present": 0,
+             "not_voting": 2,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 5,
+             "no": 180,
+             "present": 0,
+             "not_voting": 13,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 232,
+             "no": 184,
+             "present": 0,
+             "not_voting": 15}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 149,
+           "source": "http://clerk.house.gov/evs/2020/roll149.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll149.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/149.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           "number": "H.AMDT.840",
+           "api_uri": "https://api.propublica.org/congress/v1/116/amendments/hamdt840.json",
+           "sponsor_id": "D000631",
+           "sponsor": "Madeleine Dean",
+           "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000631.json",
+           "sponsor_party": "D",
+           "sponsor_state": "PA"
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Dean of Pennsylvania Amendment No. 11",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-21",
+           "time": "11:02:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": 215,
+             "no": 15,
+             "present": 0,
+             "not_voting": 2,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 2,
+             "no": 182,
+             "present": 0,
+             "not_voting": 14,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 217,
+             "no": 198,
+             "present": 0,
+             "not_voting": 16}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 148,
+           "source": "http://clerk.house.gov/evs/2020/roll148.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll148.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/148.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           "number": "H.AMDT.839",
+           "api_uri": "https://api.propublica.org/congress/v1/116/amendments/hamdt839.json",
+           "sponsor_id": "P000607",
+           "sponsor": "Mark Pocan",
+           "sponsor_uri": "https://api.propublica.org/congress/v1/members/P000607.json",
+           "sponsor_party": "D",
+           "sponsor_state": "WI"
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Pocan of Wisconsin Amendment No. 9",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-21",
+           "time": "10:16:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": 92,
+             "no": 139,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 185,
+             "present": 0,
+             "not_voting": 13,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 93,
+             "no": 324,
+             "present": 0,
+             "not_voting": 14}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 147,
+           "source": "http://clerk.house.gov/evs/2020/roll147.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll147.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/147.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           "number": "H.AMDT.838",
+           "api_uri": "https://api.propublica.org/congress/v1/116/amendments/hamdt838.json",
+           "sponsor_id": "N000191",
+           "sponsor": "Joe Neguse",
+           "sponsor_uri": "https://api.propublica.org/congress/v1/members/N000191.json",
+           "sponsor_party": "D",
+           "sponsor_state": "CO"
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Neguse of Colorado Amendment No. 8",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-21",
+           "time": "09:31:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": 230,
+             "no": 0,
+             "present": 0,
+             "not_voting": 2,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 4,
+             "no": 180,
+             "present": 0,
+             "not_voting": 14,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 234,
+             "no": 181,
+             "present": 0,
+             "not_voting": 16}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 146,
+           "source": "http://clerk.house.gov/evs/2020/roll146.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll146.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/146.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           "number": "H.AMDT.837",
+           "api_uri": "https://api.propublica.org/congress/v1/116/amendments/hamdt837.json",
+           "sponsor_id": "D000197",
+           "sponsor": "Diana DeGette",
+           "sponsor_uri": "https://api.propublica.org/congress/v1/members/D000197.json",
+           "sponsor_party": "D",
+           "sponsor_state": "CO"
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "DeGette of Colorado Amendment No. 7",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-21",
+           "time": "08:45:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": 229,
+             "no": 0,
+             "present": 0,
+             "not_voting": 3,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 5,
+             "no": 178,
+             "present": 0,
+             "not_voting": 15,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 234,
+             "no": 179,
+             "present": 0,
+             "not_voting": 18}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 145,
+           "source": "http://clerk.house.gov/evs/2020/roll145.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll145.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/145.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           "number": "H.AMDT.836",
+           "api_uri": "https://api.propublica.org/congress/v1/116/amendments/hamdt836.json",
+           "sponsor_id": "J000298",
+           "sponsor": "Pramila Jayapal",
+           "sponsor_uri": "https://api.propublica.org/congress/v1/members/J000298.json",
+           "sponsor_party": "D",
+           "sponsor_state": "WA"
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Jayapal of Washington Amendment No. 6",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-21",
+           "time": "08:00:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": 171,
+             "no": 59,
+             "present": 0,
+             "not_voting": 2,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 1,
+             "no": 182,
+             "present": 0,
+             "not_voting": 15,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 173,
+             "no": 241,
+             "present": 0,
+             "not_voting": 17}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 144,
+           "source": "http://clerk.house.gov/evs/2020/roll144.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll144.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/144.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           "number": "H.AMDT.835",
+           "api_uri": "https://api.propublica.org/congress/v1/116/amendments/hamdt835.json",
+           "sponsor_id": "O000173",
+           "sponsor": "Ilhan Omar",
+           "sponsor_uri": "https://api.propublica.org/congress/v1/members/O000173.json",
+           "sponsor_party": "D",
+           "sponsor_state": "MN"
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Omar of Minnesota Amendment No. 5",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-21",
+           "time": "07:19:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": 126,
+             "no": 103,
+             "present": 0,
+             "not_voting": 3,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 2,
+             "no": 181,
+             "present": 0,
+             "not_voting": 15,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 129,
+             "no": 284,
+             "present": 0,
+             "not_voting": 18}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 143,
+           "source": "http://clerk.house.gov/evs/2020/roll143.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll143.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/143.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Smith of Washington Amendment En Bloc No. 1",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-20",
+           "time": "19:08:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": 224,
+             "no": 3,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 112,
+             "no": 67,
+             "present": 0,
+             "not_voting": 18,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 336,
+             "no": 71,
+             "present": 0,
+             "not_voting": 23}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 142,
+           "source": "http://clerk.house.gov/evs/2020/roll142.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll142.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/142.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "McAdams of Utah Amendment No. 4",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-20",
+           "time": "18:33:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": 225,
+             "no": 2,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 1,
+             "no": 177,
+             "present": 0,
+             "not_voting": 19,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 227,
+             "no": 179,
+             "present": 0,
+             "not_voting": 24}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 141,
+           "source": "http://clerk.house.gov/evs/2020/roll141.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll141.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/141.json",
+           "bill": {
+           "bill_id": "hr6395-116",
+           "number": "H.R.6395",
+           "sponsor_id": "S000510",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr6395.json",
+           "title": "To authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
+           "latest_action": "Cloture motion on the veto message presented in Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Escobar of Texas Amendment No. 3",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-20",
+           "time": "17:54:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": 213,
+             "no": 14,
+             "present": 0,
+             "not_voting": 5,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 1,
+             "no": 176,
+             "present": 0,
+             "not_voting": 20,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 215,
+             "no": 190,
+             "present": 0,
+             "not_voting": 25}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 140,
+           "source": "http://clerk.house.gov/evs/2020/roll140.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll140.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/140.json",
+           "bill": {
+           "bill_id": "hres1053-116",
+           "number": "H.RES.1053",
+           "sponsor_id": "P000593",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1053.json",
+           "title": "Providing for consideration of the bill (H.R. 6395) to authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 7027) making additional supplemental appropriations for disaster relief requirements for the fiscal year ending September 30, 2020, and for other purposes; providing for consideration of the bill (H.R. 7327) making additional supplemental appropriations for disaster relief requirements for the fiscal year ending September 30, 2020, and for other purposes; and providing for consideration of the Senate amendments to the bill (H.R. 1957) to amend the Internal Revenue Code of 1986 to modernize and improve the Internal Revenue Service, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Resolution",
+           "question_text": "",
+           "description": "Providing for consideration of the bill H.R. 6395- William M. (Mac) Thornberry National Defense Authorization Act for FY 2021; H.R. 7027- Child Care Is Essential Act; H.R. 7327- Child Care for Economic Recovery Act and consideration of Senate Adts to H.R. 1957",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-20",
+           "time": "13:15:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 223,
+             "no": 0,
+             "present": 0,
+             "not_voting": 9,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 1,
+             "no": 165,
+             "present": 0,
+             "not_voting": 31,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 224,
+             "no": 166,
+             "present": 0,
+             "not_voting": 40}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 139,
+           "source": "http://clerk.house.gov/evs/2020/roll139.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll139.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/139.json",
+           "bill": {
+           "bill_id": "hres1053-116",
+           "number": "H.RES.1053",
+           "sponsor_id": "P000593",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hres1053.json",
+           "title": "Providing for consideration of the bill (H.R. 6395) to authorize appropriations for fiscal year 2021 for military activities of the Department of Defense and for military construction, to prescribe military personnel strengths for such fiscal year, and for other purposes; providing for consideration of the bill (H.R. 7027) making additional supplemental appropriations for disaster relief requirements for the fiscal year ending September 30, 2020, and for other purposes; providing for consideration of the bill (H.R. 7327) making additional supplemental appropriations for disaster relief requirements for the fiscal year ending September 30, 2020, and for other purposes; and providing for consideration of the Senate amendments to the bill (H.R. 1957) to amend the Internal Revenue Code of 1986 to modernize and improve the Internal Revenue Service, and for other purposes.",
+           "latest_action": "Motion to reconsider laid on the table Agreed to without objection."
+           },
+           "amendment": {
+           },
+           "question": "On Ordering the Previous Question",
+           "question_text": "",
+           "description": "Providing for consideration of the bill H.R. 6395- William M. (Mac) Thornberry National Defense Authorization Act for FY 2021; H.R. 7027- Child Care Is Essential Act; H.R. 7327- Child Care for Economic Recovery Act and consideration of Senate Adts to H.R. 1957",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-20",
+           "time": "12:21:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 220,
+             "no": 0,
+             "present": 0,
+             "not_voting": 12,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 0,
+             "no": 161,
+             "present": 0,
+             "not_voting": 36,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 220,
+             "no": 162,
+             "present": 0,
+             "not_voting": 48}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 138,
+           "source": "http://clerk.house.gov/evs/2020/roll138.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll138.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/138.json",
+           "bill": {
+           "bill_id": "hr2-116",
+           "number": "H.R.2",
+           "sponsor_id": "D000191",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr2.json",
+           "title": "To authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "latest_action": "Received in the Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Passage",
+           "question_text": "",
+           "description": "INVEST in America Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-01",
+           "time": "17:21:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 230,
+             "no": 2,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 3,
+             "no": 185,
+             "present": 0,
+             "not_voting": 9,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 233,
+             "no": 188,
+             "present": 0,
+             "not_voting": 10}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 137,
+           "source": "http://clerk.house.gov/evs/2020/roll137.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll137.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/137.json",
+           "bill": {
+           "bill_id": "hr2-116",
+           "number": "H.R.2",
+           "sponsor_id": "D000191",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr2.json",
+           "title": "To authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "latest_action": "Received in the Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Motion to Recommit with Instructions",
+           "question_text": "",
+           "description": "INVEST in America Act",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-01",
+           "time": "16:38:00",
+           "result": "Passed",
+           "democratic": {
+             "yes": 39,
+             "no": 192,
+             "present": 0,
+             "not_voting": 2,
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": 185,
+             "no": 0,
+             "present": 0,
+             "not_voting": 12,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 224,
+             "no": 193,
+             "present": 0,
+             "not_voting": 14}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 136,
+           "source": "http://clerk.house.gov/evs/2020/roll136.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll136.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/136.json",
+           "bill": {
+           "bill_id": "hr2-116",
+           "number": "H.R.2",
+           "sponsor_id": "D000191",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr2.json",
+           "title": "To authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "latest_action": "Received in the Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Tlaib of Michigan Part H Amendment No. 3",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-01",
+           "time": "15:46:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": 232,
+             "no": 0,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 8,
+             "no": 180,
+             "present": 0,
+             "not_voting": 9,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 240,
+             "no": 181,
+             "present": 0,
+             "not_voting": 10}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 135,
+           "source": "http://clerk.house.gov/evs/2020/roll135.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll135.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/135.json",
+           "bill": {
+           "bill_id": "hr2-116",
+           "number": "H.R.2",
+           "sponsor_id": "D000191",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr2.json",
+           "title": "To authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "latest_action": "Received in the Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Foxx of North Carolina Part H Amendment No. 1",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-01",
+           "time": "14:59:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": 0,
+             "no": 232,
+             "present": 0,
+             "not_voting": 1,
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": 146,
+             "no": 42,
+             "present": 0,
+             "not_voting": 9,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 147,
+             "no": 274,
+             "present": 0,
+             "not_voting": 10}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 134,
+           "source": "http://clerk.house.gov/evs/2020/roll134.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll134.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/134.json",
+           "bill": {
+           "bill_id": "hr2-116",
+           "number": "H.R.2",
+           "sponsor_id": "D000191",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr2.json",
+           "title": "To authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "latest_action": "Received in the Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Graves of Missouri Part G Amendment En Bloc No. 6",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-07-01",
+           "time": "14:19:00",
+           "result": "Failed",
+           "democratic": {
+             "yes": 0,
+             "no": 231,
+             "present": 0,
+             "not_voting": 2,
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": 178,
+             "no": 10,
+             "present": 0,
+             "not_voting": 9,
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": 1,
+             "no": 0,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 179,
+             "no": 241,
+             "present": 0,
+             "not_voting": 11}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 133,
+           "source": "http://clerk.house.gov/evs/2020/roll133.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll133.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/133.json",
+           "bill": {
+           "bill_id": "hr2-116",
+           "number": "H.R.2",
+           "sponsor_id": "D000191",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr2.json",
+           "title": "To authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "latest_action": "Received in the Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "Pallone of New Jersey Part D Amendment En Bloc No. 3",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-06-30",
+           "time": "19:05:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": 231,
+             "no": 0,
+             "present": 0,
+             "not_voting": 2,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 3,
+             "no": 177,
+             "present": 0,
+             "not_voting": 17,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 234,
+             "no": 178,
+             "present": 0,
+             "not_voting": 19}
+          },
+        {
+           "congress": 116,
+           "chamber": "House",
+           "session": 2,
+           "roll_call": 132,
+           "source": "http://clerk.house.gov/evs/2020/roll132.xml",
+           "url": "http://clerk.house.gov/evs/2020/roll132.xml",
+           "vote_uri": "https://api.propublica.org/congress/v1/116/house/sessions/2/votes/132.json",
+           "bill": {
+           "bill_id": "hr2-116",
+           "number": "H.R.2",
+           "sponsor_id": "D000191",
+           "api_uri": "https://api.propublica.org/congress/v1/116/bills/hr2.json",
+           "title": "To authorize funds for Federal-aid highways, highway safety programs, and transit programs, and for other purposes.",
+           "latest_action": "Received in the Senate."
+           },
+           "amendment": {
+           },
+           "question": "On Agreeing to the Amendment",
+           "question_text": "",
+           "description": "DeFazio of Oregon Part B Amendment En Bloc No. 1",
+           "vote_type": "YEA-AND-NAY",
+           "date": "2020-06-30",
+           "time": "18:35:00",
+           "result": "Agreed to",
+           "democratic": {
+             "yes": 227,
+             "no": 4,
+             "present": 0,
+             "not_voting": 2,
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": 2,
+             "no": 184,
+             "present": 0,
+             "not_voting": 11,
+             "majority_position": "No"
+            },
+           "independent": {
+             "yes": 0,
+             "no": 1,
+             "present": 0,
+             "not_voting": 0
+            },
+           "total": {
+             "yes": 229,
+             "no": 189,
+             "present": 0,
+             "not_voting": 13}
+          }
+         ]
+    }
+}
