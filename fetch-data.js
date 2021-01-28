@@ -1,6 +1,10 @@
-//import fetch from 'node-fetch';
+//import packages;
 const fetch = require('node-fetch');
 const fs = require('fs');
+const dotenv = require('dotenv');
+dotenv.config();
+
+
 
 //Used by each iteration of the for loop to fetch data for the given month and year
 function makeAPICall(url, options, month, year) {
@@ -14,8 +18,10 @@ var date = new Date();
 var currentMonth = date.getMonth();
 var currentYear = date.getFullYear();
 var totalMonths = (currentYear * 12) + currentMonth;
-var startingYear = 2018;
+var startingYear = (process.env.STARTING_YEAR != null || process.env.STARTING_YEAR != '') ? process.env.STARTING_YEAR : 2018;
 var fixedMonth;
+var apiKey = process.env.API_KEY;
+
 
 //Gets data for every month from January of startingYear until the current month and writes it to a file
 for (let i = (startingYear * 12); i <= totalMonths; i++) {
@@ -26,7 +32,7 @@ for (let i = (startingYear * 12); i <= totalMonths; i++) {
   let url = "https://api.propublica.org/congress/v1/both/votes/" + tempYear + "/" + tempMonth + ".json";
   const options = {
     headers: {
-      "X-API-Key": "C7Wf8TJ7wlyHtRLb2IFgzFOdanKYOXByS9SqEUFT"
+      "X-API-Key": apiKey
     }
   };
 
