@@ -1,4 +1,4 @@
-##Congressional Vote Splitting Site
+## Congressional Split Votes site
 
 
 ### Table of Contents
@@ -13,7 +13,7 @@
   1. [Author](#author)
 
 ### Intro
-This site shows a list of congressional votes that divided both parties (votes in which at least a quarter of each party voted against the majority of the party). The site uses data on congressional votes pulled using the [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/). 
+This site seeks to find issues that crosscut traditional partisan divisions by showing a list of congressional votes that divided both parties (defined as votes in which at least a quarter of each party voted against the majority of the party). The site uses data on congressional votes pulled using the [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/). 
 
 ### Deploy a Copy
 To deploy the site as a static site without making any alterations, deploy the files found in the build directory.
@@ -46,10 +46,6 @@ Launch the site at localhost:3000.
 Once the data has been updated, use the command below to rebuild the site within the build directory. Then deploy the updated contents of the build directory.
 
 `npm run build`
-
-### License
-
-  [GNU General Public License v3.0](./LICENSE)
 
 ### Author
 
