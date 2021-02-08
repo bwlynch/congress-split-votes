@@ -1,6 +1,8 @@
 //import packages
 const fetch = require('node-fetch');
 const fs = require('fs');
+const dotenv = require('dotenv');
+dotenv.config();
 
 
 //Gets current date and converts it to months by multiplying year by 12
