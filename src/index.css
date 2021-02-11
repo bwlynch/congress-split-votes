@@ -1,3 +1,50 @@
-h1, p {
+h1 {
   text-align: center;
+  color: #606060;
 }
+
+p {
+  color: #777777;
+  text-align: center;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.center {
+  width: 700px;
+  margin: auto;
+  color: #888888;
+}
+
+.head {
+  width: 850px;
+  margin: auto;
+}
+
+.mainframe {
+  width: 950px;
+  margin: auto;
+  background-color: #faeadb;
+}
+
+.menu {
+  height: 40px;
+  background-color: #d9b584;
+  position: fixed;
+  top: 0;
+  right: 0%;
+  margin: 0;
+  width: 100%;
+}
+
+html {
+  background-color: #f2f4f7;
+}
+
+a:link {
+  color: teal;
+}
+
+a:visited {
+ color: #8db8c6;
+}
+

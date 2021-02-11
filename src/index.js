@@ -21,9 +21,10 @@ class Main extends React.Component {
       }
     }
     return (
-      <div><h1>Votes that Split the Parties</h1>
-      <p>The increased partisanship in U.S. politics has led to an increase in party line votes where each party votes more or less as a bloc. However there are still some issues that divide the parties. Below is a list of every congressional vote since 2010 where both parties were split, defined as instances where at least a quarter of each party voted differently from the majority of the party.</p><br/>
-      <div>{everything}</div></div>
+      <div><div class="menu"></div>
+      <div class="mainframe"><div class="head"><br/><h1>Votes that Split the Parties</h1>
+      <p>The increased partisanship in U.S. politics has led to an increase in party line votes where each party votes more or less as a bloc. However there are still some issues that divide the parties. Below is a list of every congressional vote since 2010 where both parties were split, defined as instances where at least a quarter of each party voted differently from the majority of the party.</p><br/></div>
+      <div class="center">{everything}</div></div></div>
     );
   }
 }
