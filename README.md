@@ -11,7 +11,7 @@
   1. [Author](#author)
 
 ### Intro
-This site seeks to find issues that crosscut traditional partisan divisions by showing a list of congressional votes that divided both parties (defined as votes in which at least a quarter of each party voted against the majority of the party). An example of the deployed site can be found [here](http://splitvotes.benwlynch.com.s3-website-us-east-1.amazonaws.com). The site uses data on congressional votes pulled using the [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/). 
+This site seeks to find issues that crosscut traditional partisan divisions by showing a list of congressional votes that divided both parties (defined as votes in which at least a quarter of each party voted against the majority of the party). An example of the deployed site can be found [here](https://splitvotes.benwlynch.com). The site uses data on congressional votes pulled using the [ProPublica Congress API](https://projects.propublica.org/api-docs/congress-api/). 
 
 ### Deploy a Copy
 To deploy the site as a static site without making any alterations, deploy the files found in the build directory.
